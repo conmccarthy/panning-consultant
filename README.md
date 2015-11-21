@@ -1,2 +1,2 @@
-# panning-consultant
+# planning-consultant
 About
